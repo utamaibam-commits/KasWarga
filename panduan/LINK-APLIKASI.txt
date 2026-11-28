@@ -1,0 +1,9 @@
+LINK APLIKASI KASWARGA
+
+https://utamaibam-commits.github.io/KasWarga/
+
+Android: buka di Chrome -> menu titik tiga -> Instal aplikasi / Tambahkan ke Layar utama.
+iPhone: buka di Safari -> tombol Bagikan -> Tambah ke Layar Utama -> Tambah.
+Laptop: buka di Chrome/Edge -> klik ikon Instal di kolom alamat.
+
+Setelah dibuka sekali, KasWarga jalan tanpa internet. Selalu buka dari ikon yang sama.
